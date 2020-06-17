@@ -1,0 +1,162 @@
+{
+    "Name": {
+        "english": "Manoj Deokar",
+        "marathi": "मनोज देवकर"
+    },
+    "JobProfile": {
+        "english": "QC Chemist",
+        "marathi": "गुणवत्ता नियंत्रक केमिस्ट"
+    },
+    "Facebook": "https://www.facebook.com/MANOJ4511",
+    "Instagram": null,
+    "Email": "deokarm6@gmail.com",
+    "CompanyLink": null,
+    "CompanyExperience": null,
+    "CompanyName": {
+        "english": "Garware Polyster Ltd. Aurangabad",
+        "marathi": "गरवारे पॉलीस्टर लिमिटेड औरंगाबाद"
+    },
+    "Hobby": {
+        "english": null,
+        "marathi": null
+    },
+    "PersonalInformation": {
+        "FullName": {
+            "english": "Manoj Murlidhar Deokar",
+            "marathi": "मनोज मुरलीधर देवकर"
+        },
+        "DateOfBirth": {
+            "english": "01-11-1993",
+            "marathi": "०१-११-१९९३"
+        },
+        "BirthPlace": {
+            "english": "Vaijapur",
+            "marathi": "वैजापूर"
+        },
+        "BirthTime": {
+            "english": "2:45 AM",
+            "marathi": ""
+        },
+        "Color": {
+            "english": "Moderate Brown",
+            "marathi": "सावळा"
+        },
+        "Height": {
+            "english": "5.8 Feet",
+            "marathi": "५.८ फुट"
+        },
+        "BloodGroup": {
+            "english": "O +ve",
+            "marathi": "ओ पॉझिटिव्ह"
+        },
+        "Gotra": {
+            "english": null,
+            "marathi": null
+        },
+        "Gan": {
+            "english": null,
+            "marathi": null
+        },
+        "Devak": {
+            "english": null,
+            "marathi": null
+        },
+        "Ras": {
+            "english": "Leo",
+            "marathi": "सिंह"
+        },
+        "Kuldaivat": {
+            "english": "Tuljapur",
+            "marathi": "तुळजापूर"
+        },
+        "RasName": {
+            "english": "Mahesh",
+            "marathi": "महेश"
+        },
+        "Caste": {
+            "english": "Ful-Mali",
+            "marathi": "फुलमाळी"
+        }
+    },
+    "Qualification": {
+        "Education": {
+            "english": "M.Sc. Physics",
+            "marathi": "एम.एस्सी. भौतिकशास्त्र"
+        },
+        "Job": {
+            "english": "QC Chemist At Garware Polyster Ltd. Aurangabad",
+            "marathi": "गरवारे पॉलिस्टर लि. औरंगाबाद येथे गुणवत्ता नियंत्रक केमिस्ट"
+        },
+        "Salary": {
+            "english": null,
+            "marathi": null
+        }
+    },
+    "FamilyInformation": {
+        "GrandfatherName": {
+            "english": "Pundalik Deokar",
+            "marathi": "पुंडलिक देवकर"
+        },
+        "GrandmotherName": {
+            "english": null,
+            "marathi": null
+        },
+        "FatherName": {
+            "english": "Murlidhar Pundalik Deokar",
+            "marathi": "मुरलीधर पुंडलिक देवकर"
+        },
+        "MotherName": {
+            "english": "Ranjana Murlidhar Deokar",
+            "marathi": "रंजना मुरलीधर देवकर"
+        },
+        "SisterName": {
+            "english": "Shital Eknath Batav",
+            "marathi": "शीतल एकनाथ बटाव"
+        },
+        "BrotherName": {
+            "english": "Ajay Deokar, Vijay Deokar Abhay Batav",
+            "marathi": "अजय देवकर, विजय देवकर, अभय बटाव"
+        },
+        "Uncle": {
+            "english": "Sudhakar Veljali, ",
+            "marathi": "सुधाकर वेलजाळी"
+        },
+        "Mama": {
+            "english": "Dattatray Lalaji Sherkar",
+            "marathi": "दत्तात्रय लालाजी शेरकर"
+        },
+        "Aatya": {
+            "english": null,
+            "marathi": null
+        },
+        "Mavshi": {
+            "english": null,
+            "marathi": null
+        },
+        "Relatives": {
+            "english": "Jejurkar, Thalkar",
+            "marathi": "जेजुरकर, थळकर"
+        }
+    },
+    "ContactMe": {
+        "EmailId": {
+            "english": "deokarm6@gmail.com",
+            "marathi": "deokarm6@gmail.com"
+        },
+        "MobileNo": {
+            "english": "8208424970",
+            "marathi": "८२०८४२४९७०"
+        }
+    },
+    "Photos": {
+        "ProfilePhotoName": "assets/Profile.jpg",
+        "GalleryPhoto": {
+            "Photo1": "assets/G(1).jpg",
+            "Photo2": "assets/G(2).jpg",
+            "Photo3": "assets/G(3).jpg",
+            "Photo4": "assets/G(4).jpg",
+            "Photo5": "assets/G(5).jpg",
+            "Photo6": "assets/G(6).jpg"
+        }
+    }
+}
